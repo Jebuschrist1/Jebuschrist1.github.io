@@ -1,6 +1,6 @@
 # YharimArvale.github.io
 **Will Brent R. Amorsolo (9-Brebeuf)**
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Science Extinction PT
+- [ ] Indiviual Science Assignment
+- [ ] English Spoken Word Poem PT
