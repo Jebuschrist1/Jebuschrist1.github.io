@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/122419244/212211263-512eff85-1c74-4b32
 ![Baby Orangutans](man.jfif)
 
 - [ ] Buy a marmoset monkey
-- [ ] Get 1,500 for marmoset monkey
+- [ ] Get 1,500 dollars for marmoset monkey
 - [x] Evade taxes
 - [ ] Money launder
 - [ ] Reclaim the jungle
