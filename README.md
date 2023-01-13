@@ -10,9 +10,9 @@ https://user-images.githubusercontent.com/122419244/212211263-512eff85-1c74-4b32
 
 ![Baby Orangutans](man.jfif)
 
-- [x] balls
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Buy a marmoset monkey
+- [ ] Get 1,500 for marmoset monkey
+- [x] Evade taxes
+- [ ] Money launder
+- [ ] Reclaim the jungle
+- [ ] Meet my father
